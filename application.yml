@@ -1,6 +1,6 @@
 version: 1.1.1
 data:
-  env: NaN
+  env: dev
   user:
-    username: NaN
-    password: NaN
+    username: zhangsan
+    password: 123456
