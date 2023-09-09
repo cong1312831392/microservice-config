@@ -2,5 +2,5 @@ version: 1.1.1
 data:
   env: dev
   user:
-    username: zhangsan
-    password: 123456
+    username: lisi
+    password: abcd
